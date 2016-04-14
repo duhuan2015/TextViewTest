@@ -3,5 +3,6 @@
 
     <string name="app_name">TextViewTest</string>
     <string name="hello_world">Hello world!</string>
+	<string name="just_fun">Just For Fun</string>
 
 </resources>
